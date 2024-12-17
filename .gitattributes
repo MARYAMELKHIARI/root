@@ -1,8 +1,0 @@
-# Normaliser les retours à la ligne pour tous les fichiers
-* text=auto
-
-# Forcer LF (line feed) pour certains types de fichiers
-*.css text eol=lf
-*.js text eol=lf
-*.html text eol=lf
-*.php text eol=lf
